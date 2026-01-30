@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/General Dynamics.md",
+                "file": "Companies/Palantir Technologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Dynamics"
+              "title": "Palantir Technologies"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/General Dynamics.md",
+                "file": "Companies/Palantir Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for General Dynamics"
+              "title": "Backlinks for Palantir Technologies"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/General Dynamics.md",
+                "file": "Companies/Palantir Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from General Dynamics"
+              "title": "Outgoing links from Palantir Technologies"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/General Dynamics.md",
+                "file": "Companies/Palantir Technologies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of General Dynamics"
+              "title": "Outline of Palantir Technologies"
             }
           }
         ]
@@ -185,5 +185,10 @@
     }
   },
   "active": "272bf52a4158c1a3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "Palantir.md",
+    "Companies/Saab.md",
+    "Companies/General Dynamics.md"
+  ]
 }
