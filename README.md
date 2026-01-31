@@ -34,6 +34,6 @@ If something is unclear or not publicly documented, it is either:
 - omitted entirely
 
 ---
-The idea for this project came to me after a talk to my pal @David-glitc so in a way, it's both our minds child lol 😂
+The idea for this project came to me after a talk to my pal [David-glitc](github.com/David-glitc) so in a way, it's both our minds child lol 😂
 
 
